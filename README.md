@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seshan Rodrigo</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-- 🌱 I’m currently Learning **C#**
+
 
 - 🤝 I’m Undergraduate at **NIBM**
 
