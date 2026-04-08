@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seshan Rodrigo</h1>
-<h3 align="center">computer science and artificial intelligence Student</h3>
+<h3 align="center">Undergraduate BSc(Hons) Computer Science with Artificial Intelligence</h3>
 
 
 
-- 🤝 I’m Undergraduate at **NIBM**
+- 🤝 I’m Undergraduate at **NIBM - Coventry University**
 
 - 📫 How to reach me **seshannimsath2003@gmail.com**
 
