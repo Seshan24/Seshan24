@@ -13,10 +13,12 @@
 
 - 💬 Ask me about **AI**
 
-- 📫[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seshan24.github.io/SeshanPortfolio/)
+- - ⚡ Fun fact **Call me as Sesh**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seshan24.github.io/SeshanPortfolio/)
 
   
-- ⚡ Fun fact **Call me as Sesh**
+
 
 </td>
 <td width="50%" align="center">
