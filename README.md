@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **AI**
 
-- 📫 How to reach me **seshannimsath2003@gmail.com**
+- 📫[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seshan24.github.io/SeshanPortfolio/)
+
   
 - ⚡ Fun fact **Call me as Sesh**
 
