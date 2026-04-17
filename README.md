@@ -36,7 +36,7 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p>
   <a href="https://instagram.com/sesha.n_" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" width="50" />
   </a>
