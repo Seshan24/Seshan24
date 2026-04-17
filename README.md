@@ -37,17 +37,16 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+    <a href="https://instagram.com/sesha.n_" target="_blank">
+      <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="instagram" height="50" width="50" />
+    </a>
+    <a href="https://www.linkedin.com/in/seshan-rodrigo-1279ba2b6/" target="_blank">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" />
+    </a>
+    <a href="https://www.facebook.com/seshan.rodrigo.2025" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="50" width="50" />
+    </a>
 
-  <a href="https://instagram.com/sesha.n_" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/instagram/E4405F"alt="seshanrodrigoins" height="50" width="50" />
-</a>
-  <img width="1" />
-<a href="https://www.linkedin.com/in/seshan-rodrigo-1279ba2b6/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="seshanrodrigo" height="50" width="50" /></a>
-  
-  <img width="1" />
-<a href="https://www.facebook.com/seshan.rodrigo.2025?mibextid=wwXIfr&rdid=qBITEqW6hy6lLJ9A&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18MdD7pnjy%2F#" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="seshanrodrigofb" height="50" width="50" />
-</a>
 </p>
 
 ---
