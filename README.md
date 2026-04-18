@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AI**
 
-- ⚡ Fun fact **Call me as Sesh**
+- ⚡**Call me as Sesh**
 
 
 
