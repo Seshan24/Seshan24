@@ -35,7 +35,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me: </h3>
 <p align="center">
 <a href="https://instagram.com/sesha.n_" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="35" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/seshan-rodrigo-1279ba2b6/" target="_blank" ><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="35" /></a> &nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/seshan.rodrigo.2025" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="35" /></a>
@@ -44,7 +44,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools: </h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> 
