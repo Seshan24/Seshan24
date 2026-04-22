@@ -7,9 +7,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 👨🏼‍🎓 I’m currently learning **AI + ML**
+- 🍀 I’m currently learning **AI + ML**
 
-- 🧑‍🎓 I’m an Undergraduate at **NIBM - Coventry University**
+- 👨🏼‍🎓 I’m an Undergraduate at **NIBM - Coventry University**
 
 - 💬 Ask me about **AI**
 
