@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🍀 I’m currently learning **AI + ML**
+- 🍀 I’m currently learning **BSc (Hons) in Computer Science with Artificial Intelligence at NIBM Kandy Innovation Center**
 
 - 👨🏼‍🎓 I’m an Undergraduate at **NIBM - Coventry University**
 
