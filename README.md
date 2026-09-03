@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🍀 I’m currently learning **Computer Science + Artificial Intelligence**
+- 🍀 I’m currently learning **Computer Science + AI**
 
 - 👨🏼‍🎓 I’m an Undergraduate at **NIBM - Coventry University**
 
