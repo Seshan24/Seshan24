@@ -11,7 +11,7 @@
 
 - 👨🏼‍🎓 I’m an Undergraduate at **NIBM - Coventry University**
 
-- 💬 Ask me about **AI**
+- 💬 Ask me about **•AI •ML •LLM •Python**
 
 - ⚡ **Call me as Sesh**
 
