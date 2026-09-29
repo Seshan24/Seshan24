@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🍀 I’m currently learning **Computer Science + AI**
+- 🍀 I’m currently learning **BSc (Hons) in Computer Science with Artificial Intelligence**
 
 - 👨🏼‍🎓 I’m an Undergraduate at **NIBM - Coventry University**
 
-- 💬 Ask me about **•AI •ML •LLM •Python**
+- 💬 Ask me about **AI**
 
 - ⚡ **Call me as Sesh**
 
