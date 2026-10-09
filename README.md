@@ -17,8 +17,7 @@
 
 
 
-[Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000?style=for-the-badge&logo=vercel&logoColor=white)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seshan24.github.io/SeshanPortfolio/)
 
 </td>
 <td width="50%" align="center">
