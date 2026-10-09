@@ -17,8 +17,7 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seshan24.github.io/SeshanPortfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/seshan24)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000?style=for-the-badge&logo=vercel&logoColor=white)]
   
 
 
