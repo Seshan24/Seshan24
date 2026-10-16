@@ -28,7 +28,7 @@
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=Seshan24&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" />
   <img src="https://img.shields.io/github/followers/Seshan24?style=flat-square&label=Followers&color=0ea5e9" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-0f766e?style=flat-square" alt="Based in Sri Lanka" />
 
