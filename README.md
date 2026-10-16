@@ -162,11 +162,6 @@
 
 </div>
 
-<!--
-  SNAKE ANIMATION: Uncomment the section below AFTER you run the workflow
-  in .github/workflows/snake.yml once. The action publishes images to the
-  output branch and GitHub will then be able to display them.
-
 ### `> snake --eat-contributions` 🐍
 
 <div align="center">
@@ -175,7 +170,6 @@
     <img src="https://raw.githubusercontent.com/Seshan24/Seshan24/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
   </picture>
 </div>
--->
 
 ---
 
