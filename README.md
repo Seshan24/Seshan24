@@ -54,7 +54,7 @@
       ⚡ <b>Call me:</b> Sesh
     </td>
     <td valign="middle" width="44%">
-      <img src="./assets/zen-terminal.gif" width="100%" alt="Animated Zen AI system terminal" />
+       <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
     </td>
   </tr>
 </table>
