@@ -67,8 +67,8 @@
 
 <div align="center">
 
-  <img src="[https://img.shields.io/badge/ZEN_AI-INTELLIGENT_AUTOMATION-7C3AED](https://zenai.yournode.cloud/)?style=for-the-badge&labelColor=111827" alt="Zen AI" />
-
+  <img src="https://img.shields.io/badge/ZEN_AI-INTELLIGENT_AUTOMATION-7C3AED?style=for-the-badge&labelColor=111827" alt="Zen AI" 
+    />
   <br /><br />
 
   **Building smarter workflows. Creating better business solutions.**
