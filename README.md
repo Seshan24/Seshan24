@@ -5,7 +5,7 @@
   To enable the animated contribution snake, also upload the .github/ folder,
   then run the "Generate contribution snake" workflow once from Actions.
 -->
-
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <div align="center">
 
   <img src="./assets/hero-animated.gif" width="100%" alt="Animated Seshan Rodrigo AI and automation banner" />
