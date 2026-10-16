@@ -154,23 +154,6 @@
 
 </div>
 
-### `> visualize contributions` 📈
-
-<div align="center">
-
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Seshan24&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&area_color=312e81&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
-### `> snake --eat-contributions` 🐍
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seshan24/Seshan24/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Seshan24/Seshan24/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-  </picture>
-</div>
-
 ---
 
 ### `> connect --with sesh` 🤝
