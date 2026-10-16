@@ -1,21 +1,9 @@
-<!--
-  SESHAN RODRIGO — ANIMATED GITHUB PROFILE
-  Install this README.md AND the assets/ folder at the root of your
-  GitHub profile repository: https://github.com/Seshan24/Seshan24
-  To enable the animated contribution snake, also upload the .github/ folder,
-  then run the "Generate contribution snake" workflow once from Actions.
--->
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <div align="center">
-
   <img src="./assets/hero-animated.gif" width="100%" alt="Animated Seshan Rodrigo AI and automation banner" />
-
   <br />
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3100&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&lines=AI+%26+Automation+Developer;Co-Founder+%40+Zen+AI;Building+Intelligent+Business+Solutions;Turning+Ideas+Into+Real-World+Software;Learn.+Build.+Automate.+Repeat." alt="Animated typing introduction" />
-
   <br /><br />
-
   <a href="https://seshan24.github.io/SeshanPortfolio/">
     <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
