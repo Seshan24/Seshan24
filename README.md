@@ -209,6 +209,8 @@ A collection of my projects covering **Artificial Intelligence, Automation, Soft
 [✓] Retrieval-Augmented Generation
 [>] AI Agents & Intelligent Automation
 [>] Machine Learning & Data Science
+[>] Natural Language Processing
+[>] Computer vision & Robotics
 [>] Real-World Business AI Solutions
 [>] Growing Zen AI
 ```
