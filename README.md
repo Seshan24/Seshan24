@@ -33,7 +33,7 @@
 <tr>
 <td width="57%" valign="top">
 
-### Hello World! I'm Seshan Rodrigo 👋
+### Hello World! I'm Seshan 👋
 
 I'm **Seshan Rodrigo**, an aspiring AI developer, automation enthusiast, and **Co-Founder of Zen AI**.
 
