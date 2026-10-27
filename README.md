@@ -33,20 +33,20 @@
 <tr>
 <td width="57%" valign="top">
 
-### Hello World! I'm Sesh 👋
+### Hello World! I'm Seshan Rodrigo 👋
 
 I'm **Seshan Rodrigo**, an aspiring AI developer, automation enthusiast, and **Co-Founder of Zen AI**.
 
 I'm passionate about developing intelligent software, experimenting with AI technologies, and creating practical solutions for real-world problems.
 
 - 🎓 **Education:** BSc (Hons) Computer Science with Artificial Intelligence
-- 🏫 **University:** NIBM / Coventry University
+- 🏫 **University:** NIBM - Coventry University
 - 🚀 **Startup:** Co-Founder @ Zen AI
 - 🤖 **Focus:** AI, Automation & Software Development
 - 🧠 **Learning:** LLMs, RAG, AI Agents & Machine Learning
 - 💻 **Building:** AI-powered applications and business solutions
 - 🌍 **Location:** Sri Lanka
-- 💬 **Ask me about:** AI, Java, Python & Automation
+- 💬 **Ask me about:** AI, Python & Automation
 - ⚡ **Nickname:** Sesh
 
 </td>
@@ -73,7 +73,7 @@ I'm passionate about developing intelligent software, experimenting with AI tech
   ],
   "education": {
     "degree": "BSc (Hons) Computer Science with AI",
-    "institution": "NIBM / Coventry University"
+    "institution": "NIBM - Coventry University"
   },
   "interests": [
     "Artificial Intelligence",
