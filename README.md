@@ -83,11 +83,11 @@ I'm passionate about developing intelligent software, experimenting with AI tech
   ],
   "exploring": [
     "Large Language Models",
-    "Retrieval-Augmented Generation",
+    "Retrieval Augmented Generation",
     "AI Agents",
     "Intelligent Workflows"
   ],
-  "mission": "Build intelligent solutions for real-world problems"
+  "mission": "Build intelligent solutions for real world problems"
 }
 ```
 
